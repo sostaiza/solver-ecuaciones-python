@@ -6,5 +6,5 @@ Muestra soluciones con decimales configurables.
 
 ## Ejecución
 ```bash
-python solver_menu.py
+python app1.py
 
