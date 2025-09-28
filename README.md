@@ -1,2 +1,10 @@
-# solver-ecuaciones-python
-Solver de sistemas de ecuaciones lineales en Python. Soporta matrices cuadradas, sobredeterminadas y subdeterminadas, con soluciones por método directo o mínimos cuadrados.
+# Solver de sistemas de ecuaciones en Python
+
+Este programa resuelve sistemas lineales de la forma Ax = b con menú interactivo.  
+Soporta matrices cuadradas, sobredeterminadas y subdeterminadas.  
+Muestra soluciones con decimales configurables.
+
+## Ejecución
+```bash
+python solver_menu.py
+
